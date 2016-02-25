@@ -1,0 +1,6 @@
+ltrace = 
+       make a.out executable with chmod
+       ltrace <filename> <option/password> 
+       check output for strcmp (comparing guessed password to password stored in file(a.out)
+
+
